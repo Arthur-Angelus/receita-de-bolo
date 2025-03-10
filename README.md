@@ -1,5 +1,5 @@
 # Receita-de-bolo
-
+![![alt text](image.png)]
 desenvolvido nas aulas da disciplina linguagem de marcação na escola SENAI jandira
 
 ## tecnologias
@@ -9,4 +9,4 @@ desenvolvido nas aulas da disciplina linguagem de marcação na escola SENAI jan
 * github
 
 ## Autor
-[Arthur Angelus](https://github.com/Arthur-Angelus)# receita-de-bolo
+[Arthur Angelus](https://github.com/Arthur-Angelus)
